@@ -1,6 +1,7 @@
 # Oil-Spill-Recovery-Using-Swarm-Robotics
 This project uses a Raspberry Pi to control an autonomous boat using GPS waypoint navigation and OpenCV obstacle avoidance.
 Slideshow Link: https://docs.google.com/presentation/d/1TNRVQgga95SjSYI0z23x8nXT5OPPlpjpX_dsgEiv3xM/edit?usp=sharing
+
 PATENT PENDING (Full reasearch paper will be released pending approval of patent)
 
 # Hardware
